@@ -81,8 +81,8 @@ Before polishing and presenting your data, you will want to validate that the re
 
 ### Step Seven: Ask for Feedback 
 
-- [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
-- [ ] Incorporate the feedback
+- [x] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
+- [x] Incorporate the feedback
 - [x] Add your completed assignment in this discussion here: https://github.com/Tech-Moms/data_ai_fall_2025/discussions/16
 - [x] Do a little happy dance - you're crushing it! 💃
 
