@@ -22,7 +22,7 @@ Goal = Spend 10 hours on the topic of your choice.
       - https://youtu.be/HYD8KjPB9F8?si=44iTAO_v7C9Q7g0v
       - https://youtu.be/MARn_mssG4A?si=O4SjkgUIzbukeemO
       - https://youtu.be/MARn_mssG4A?si=V5w24YucVUF05aTs
-      - 
+      - https://youtu.be/zgYqUP_PhQo?si=izjSlSnHZG_clHrs
 - [ ] Ideas for videos could be Alex the Analyst videos on advanced Excel topics, intermediate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
 # Assignment: 
