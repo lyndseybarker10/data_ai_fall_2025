@@ -15,12 +15,13 @@ Goal = Spend 10 hours on the topic of your choice.
 
 # Video Lessons: 
 
-- [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
+- [x] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
       - https://youtu.be/rGx1QNdYzvs?si=-yLNMzVDBmlarUp6
       - https://youtu.be/CUBfrdDwznQ?si=rLN_nZfYrkmakX6g
       - https://youtu.be/wgRwITQHszU?si=RvSaVpLoJ_lW5h49
       - https://youtu.be/HYD8KjPB9F8?si=44iTAO_v7C9Q7g0v
       - https://youtu.be/MARn_mssG4A?si=O4SjkgUIzbukeemO
+      - https://youtu.be/MARn_mssG4A?si=V5w24YucVUF05aTs
       - 
 - [ ] Ideas for videos could be Alex the Analyst videos on advanced Excel topics, intermediate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
